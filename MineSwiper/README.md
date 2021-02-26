@@ -1,5 +1,3 @@
-# Introduction
-https://mp.weixin.qq.com/s/O2nKNsWUigrKomW3l29Zlw
 
 # Environment
 ```
